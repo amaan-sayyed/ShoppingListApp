@@ -1,7 +1,5 @@
 # Shopping List App
 
-![App Screenshot](ShoppingListApp.png)
-
 ## Overview
 
 This is a simple shopping list app built using Kotlin in Android Studio with Jetpack Compose. The app allows users to create, edit, and delete shopping items easily.
